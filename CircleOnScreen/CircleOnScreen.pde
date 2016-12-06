@@ -3,11 +3,6 @@ void setup() {
 }
 
 void draw() {
-  translate(mouseX, mouseY);
-   if (mousePressed) {
-    fill(0);
-  } else {
-    fill(255);
-  }
-  rect(0, 0, 30, 30);
+
+ line(400, 400, 30, 30);
 }
