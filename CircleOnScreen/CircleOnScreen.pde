@@ -1,5 +1,5 @@
-int x = 80;
-int y = 30;
+int x = 30;
+int y = 80;
 int w = 30;
 int h = 100;
 
