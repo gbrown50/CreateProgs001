@@ -1,7 +1,7 @@
 int x = 80;
 int y = 30;
-int w = 100;
-int h = 30;
+int w = 30;
+int h = 100;
 
 void setup() {
   size(240, 120);
