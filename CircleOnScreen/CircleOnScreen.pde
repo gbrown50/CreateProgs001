@@ -4,5 +4,7 @@ void setup() {
 
 void draw() {
 
- line(400, 400, 30, 30);
+ 
+ line(800, 800, 60, 60);
+
 }
